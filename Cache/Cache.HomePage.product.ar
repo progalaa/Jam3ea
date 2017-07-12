@@ -1,0 +1,363 @@
+s:24229:"
+            <section id="slider"><!--slider-->
+            <div class="row">
+                <div class="col-sm-12">
+                    <div id="slider-carousel" class="carousel slide" data-ride="carousel">
+                        <!--                        <ol class="carousel-indicators">
+                                                                                                <li data-target="#slider-carousel" data-slide-to="0" class="active"></li>
+                                                                            </ol>-->
+
+                        <div class="carousel-inner">
+                                                            <div class="item active">
+                                    <div class="col-sm-12">
+                                        <img src="Media/thumb/8320eec030bf9d66f43b0ddcea508344_500_260.jpg" class="girl img-responsive img-rounded" alt="" />
+                                    </div>
+                                </div>
+                                                        </div>
+
+                        <a href="#slider-carousel" class="left control-carousel" data-slide="prev">
+                            <i class="fa fa-angle-left"></i>
+                        </a>
+                        <a href="#slider-carousel" class="right control-carousel" data-slide="next">
+                            <i class="fa fa-angle-right"></i>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </section><!--/slider-->
+        
+            <div class="features_items"><!--features_items-->
+            <h2 class="title text-center">منتجات مميزة</h2>
+                            <div class="col-sm-4 col-xs-6">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <a href="http://localhost/Jm3eia/ar/product/i/728/ساديا---دجاج-مجمد-بدون-احشاء-1-كجم-(10-حبة)"  data-ajax="true" ><img src="Media/thumb/8320eec030bf9d66f43b0ddcea508344_255_240.jpg"  /></a>                                <h2>
+                                    <span class="oldPrice">
+                                                                            </span>
+                                    <span class="newPrice">
+                                        6.900                                        د.ك
+                                    </span>
+                                </h2>
+                                <p><a href="http://localhost/Jm3eia/ar/product/i/728/ساديا---دجاج-مجمد-بدون-احشاء-1-كجم-(10-حبة)"  data-ajax="true" >ساديا - دجاج مجمد بدون احشاء 1 كجم (10 حبة)</a></p>
+                                <div class="mini-cart">
+                                    
+        <div class="minicart-input">
+            <input type="text" lang="en" data-id="728" class="form-control input-xs quantity txtQ" value="1" id="miniq-728" min="1" />
+        </div>
+        <div class="minicart-controls">
+            <a href="javascript:void(0)" class="minipQ" data-id="728">
+                <i class="fa fa-plus-circle fa-lg"></i>
+            </a>
+            <a href="javascript:void(0)" class="minimQ" data-id="728">
+                <i class="fa fa-minus-circle fa-lg"></i>
+            </a>
+        </div>
+                                        </div>
+                                <a href="javascript:void(0)" data-id="728" class="btn btn-default btn-cart add-to-cart" data-quantity="1">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    أضف إلى السلة                                </a>
+                            </div>
+                        </div>
+                        <div class="choose">
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="javascript:void(0)" class="auth btn-wishlist wishlist" data-id="728">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى رغباتي                                    </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="btn-cart" data-id="728" data-quantity="1">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى السلة                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-sm-4 col-xs-6">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <a href="http://localhost/Jm3eia/ar/product/i/389/سيميلاك---حليب-أطفال-الرضع-رقم-1-(400-جم)"  data-ajax="true" ><img src="Media/thumb/8320eec030bf9d66f43b0ddcea508344_255_240.jpg"  /></a>                                <h2>
+                                    <span class="oldPrice">
+                                                                            </span>
+                                    <span class="newPrice">
+                                        3.190                                        د.ك
+                                    </span>
+                                </h2>
+                                <p><a href="http://localhost/Jm3eia/ar/product/i/389/سيميلاك---حليب-أطفال-الرضع-رقم-1-(400-جم)"  data-ajax="true" >سيميلاك - حليب أطفال الرضع رقم 1 (400 جم)</a></p>
+                                <div class="mini-cart">
+                                    
+        <div class="minicart-input">
+            <input type="text" lang="en" data-id="389" class="form-control input-xs quantity txtQ" value="1" id="miniq-389" min="1" />
+        </div>
+        <div class="minicart-controls">
+            <a href="javascript:void(0)" class="minipQ" data-id="389">
+                <i class="fa fa-plus-circle fa-lg"></i>
+            </a>
+            <a href="javascript:void(0)" class="minimQ" data-id="389">
+                <i class="fa fa-minus-circle fa-lg"></i>
+            </a>
+        </div>
+                                        </div>
+                                <a href="javascript:void(0)" data-id="389" class="btn btn-default btn-cart add-to-cart" data-quantity="1">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    أضف إلى السلة                                </a>
+                            </div>
+                        </div>
+                        <div class="choose">
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="javascript:void(0)" class="auth btn-wishlist wishlist" data-id="389">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى رغباتي                                    </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="btn-cart" data-id="389" data-quantity="1">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى السلة                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-sm-4 col-xs-6">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <a href="http://localhost/Jm3eia/ar/product/i/386/بامبرز-عناية-مميزة---حفاظات-للأطفال-رقم-3-من-(4-9)"  data-ajax="true" ><img src="Media/thumb/8320eec030bf9d66f43b0ddcea508344_255_240.jpg"  /></a>                                <h2>
+                                    <span class="oldPrice">
+                                                                            </span>
+                                    <span class="newPrice">
+                                        2.690                                        د.ك
+                                    </span>
+                                </h2>
+                                <p><a href="http://localhost/Jm3eia/ar/product/i/386/بامبرز-عناية-مميزة---حفاظات-للأطفال-رقم-3-من-(4-9)"  data-ajax="true" >بامبرز عناية مميزة - حفاظات للأطفال رقم 3 من (4-9) كجم (27 حبة)</a></p>
+                                <div class="mini-cart">
+                                    
+        <div class="minicart-input">
+            <input type="text" lang="en" data-id="386" class="form-control input-xs quantity txtQ" value="1" id="miniq-386" min="1" />
+        </div>
+        <div class="minicart-controls">
+            <a href="javascript:void(0)" class="minipQ" data-id="386">
+                <i class="fa fa-plus-circle fa-lg"></i>
+            </a>
+            <a href="javascript:void(0)" class="minimQ" data-id="386">
+                <i class="fa fa-minus-circle fa-lg"></i>
+            </a>
+        </div>
+                                        </div>
+                                <a href="javascript:void(0)" data-id="386" class="btn btn-default btn-cart add-to-cart" data-quantity="1">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    أضف إلى السلة                                </a>
+                            </div>
+                        </div>
+                        <div class="choose">
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="javascript:void(0)" class="auth btn-wishlist wishlist" data-id="386">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى رغباتي                                    </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="btn-cart" data-id="386" data-quantity="1">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى السلة                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-sm-4 col-xs-6">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <a href="http://localhost/Jm3eia/ar/product/i/223/جالكسي---شوكولاتة-جواهر-400-جم"  data-ajax="true" ><img src="Media/thumb/8320eec030bf9d66f43b0ddcea508344_255_240.jpg"  /></a>                                <h2>
+                                    <span class="oldPrice">
+                                                                            </span>
+                                    <span class="newPrice">
+                                        2.680                                        د.ك
+                                    </span>
+                                </h2>
+                                <p><a href="http://localhost/Jm3eia/ar/product/i/223/جالكسي---شوكولاتة-جواهر-400-جم"  data-ajax="true" >جالكسي - شوكولاتة جواهر 400 جم</a></p>
+                                <div class="mini-cart">
+                                    
+        <div class="minicart-input">
+            <input type="text" lang="en" data-id="223" class="form-control input-xs quantity txtQ" value="1" id="miniq-223" min="1" />
+        </div>
+        <div class="minicart-controls">
+            <a href="javascript:void(0)" class="minipQ" data-id="223">
+                <i class="fa fa-plus-circle fa-lg"></i>
+            </a>
+            <a href="javascript:void(0)" class="minimQ" data-id="223">
+                <i class="fa fa-minus-circle fa-lg"></i>
+            </a>
+        </div>
+                                        </div>
+                                <a href="javascript:void(0)" data-id="223" class="btn btn-default btn-cart add-to-cart" data-quantity="1">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    أضف إلى السلة                                </a>
+                            </div>
+                        </div>
+                        <div class="choose">
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="javascript:void(0)" class="auth btn-wishlist wishlist" data-id="223">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى رغباتي                                    </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="btn-cart" data-id="223" data-quantity="1">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى السلة                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-sm-4 col-xs-6">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <a href="http://localhost/Jm3eia/ar/product/i/85/بيبسي-دايت---مياه-غازية-150-مل-(30-حبة)"  data-ajax="true" ><img src="Media/thumb/8320eec030bf9d66f43b0ddcea508344_255_240.jpg"  /></a>                                <h2>
+                                    <span class="oldPrice">
+                                                                            </span>
+                                    <span class="newPrice">
+                                        2.475                                        د.ك
+                                    </span>
+                                </h2>
+                                <p><a href="http://localhost/Jm3eia/ar/product/i/85/بيبسي-دايت---مياه-غازية-150-مل-(30-حبة)"  data-ajax="true" >بيبسي دايت - مياه غازية 150 مل (30 حبة)</a></p>
+                                <div class="mini-cart">
+                                    
+        <div class="minicart-input">
+            <input type="text" lang="en" data-id="85" class="form-control input-xs quantity txtQ" value="1" id="miniq-85" min="1" />
+        </div>
+        <div class="minicart-controls">
+            <a href="javascript:void(0)" class="minipQ" data-id="85">
+                <i class="fa fa-plus-circle fa-lg"></i>
+            </a>
+            <a href="javascript:void(0)" class="minimQ" data-id="85">
+                <i class="fa fa-minus-circle fa-lg"></i>
+            </a>
+        </div>
+                                        </div>
+                                <a href="javascript:void(0)" data-id="85" class="btn btn-default btn-cart add-to-cart" data-quantity="1">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    أضف إلى السلة                                </a>
+                            </div>
+                        </div>
+                        <div class="choose">
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="javascript:void(0)" class="auth btn-wishlist wishlist" data-id="85">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى رغباتي                                    </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="btn-cart" data-id="85" data-quantity="1">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى السلة                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-sm-4 col-xs-6">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <a href="http://localhost/Jm3eia/ar/product/i/51/المراعي---حليب-طازج-كامل-الدسم-2-لتر"  data-ajax="true" ><img src="Media/thumb/8320eec030bf9d66f43b0ddcea508344_255_240.jpg"  /></a>                                <h2>
+                                    <span class="oldPrice">
+                                                                            </span>
+                                    <span class="newPrice">
+                                        0.940                                        د.ك
+                                    </span>
+                                </h2>
+                                <p><a href="http://localhost/Jm3eia/ar/product/i/51/المراعي---حليب-طازج-كامل-الدسم-2-لتر"  data-ajax="true" >المراعي - حليب طازج كامل الدسم 2 لتر</a></p>
+                                <div class="mini-cart">
+                                    
+        <div class="minicart-input">
+            <input type="text" lang="en" data-id="51" class="form-control input-xs quantity txtQ" value="1" id="miniq-51" min="1" />
+        </div>
+        <div class="minicart-controls">
+            <a href="javascript:void(0)" class="minipQ" data-id="51">
+                <i class="fa fa-plus-circle fa-lg"></i>
+            </a>
+            <a href="javascript:void(0)" class="minimQ" data-id="51">
+                <i class="fa fa-minus-circle fa-lg"></i>
+            </a>
+        </div>
+                                        </div>
+                                <a href="javascript:void(0)" data-id="51" class="btn btn-default btn-cart add-to-cart" data-quantity="1">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    أضف إلى السلة                                </a>
+                            </div>
+                        </div>
+                        <div class="choose">
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="javascript:void(0)" class="auth btn-wishlist wishlist" data-id="51">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى رغباتي                                    </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="btn-cart" data-id="51" data-quantity="1">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى السلة                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-sm-4 col-xs-6">
+                    <div class="product-image-wrapper">
+                        <div class="single-products">
+                            <div class="productinfo text-center">
+                                <a href="http://localhost/Jm3eia/ar/product/i/45/ساديا---دجاج-مجمد-بدون-احشاء-1-كجم-(10-حبة)"  data-ajax="true" ><img src="Media/thumb/8320eec030bf9d66f43b0ddcea508344_255_240.jpg"  /></a>                                <h2>
+                                    <span class="oldPrice">
+                                                                            </span>
+                                    <span class="newPrice">
+                                        6.900                                        د.ك
+                                    </span>
+                                </h2>
+                                <p><a href="http://localhost/Jm3eia/ar/product/i/45/ساديا---دجاج-مجمد-بدون-احشاء-1-كجم-(10-حبة)"  data-ajax="true" >ساديا - دجاج مجمد بدون احشاء 1 كجم (10 حبة)</a></p>
+                                <div class="mini-cart">
+                                    
+        <div class="minicart-input">
+            <input type="text" lang="en" data-id="45" class="form-control input-xs quantity txtQ" value="1" id="miniq-45" min="1" />
+        </div>
+        <div class="minicart-controls">
+            <a href="javascript:void(0)" class="minipQ" data-id="45">
+                <i class="fa fa-plus-circle fa-lg"></i>
+            </a>
+            <a href="javascript:void(0)" class="minimQ" data-id="45">
+                <i class="fa fa-minus-circle fa-lg"></i>
+            </a>
+        </div>
+                                        </div>
+                                <a href="javascript:void(0)" data-id="45" class="btn btn-default btn-cart add-to-cart" data-quantity="1">
+                                    <i class="fa fa-shopping-cart"></i>
+                                    أضف إلى السلة                                </a>
+                            </div>
+                        </div>
+                        <div class="choose">
+                            <ul class="nav nav-pills nav-justified">
+                                <li>
+                                    <a href="javascript:void(0)" class="auth btn-wishlist wishlist" data-id="45">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى رغباتي                                    </a>
+                                </li>
+                                <li>
+                                    <a href="javascript:void(0)" class="btn-cart" data-id="45" data-quantity="1">
+                                        <i class="fa fa-plus-square"></i>
+                                        أضف إلى السلة                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                        </div><!--features_items-->
+        
+    ";
